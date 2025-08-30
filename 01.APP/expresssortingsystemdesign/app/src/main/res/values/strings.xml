@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">快递分拣系统设计</string>
+    <string name="debug">调试</string>
+    <string name="history">历史数据</string>
+</resources>
